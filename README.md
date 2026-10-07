@@ -99,4 +99,4 @@ Các mức đánh giá trong bài phục vụ phân tích rủi ro của bài t�
 
 1. **S1 — Kate Wells, KFF Health News, 12/6/2023.** *What Does a Chatbot Know About Eating Disorders? Users of a Help Line Are About to Find Out.* [Đọc bài](https://kffhealthnews.org/mental-health/what-does-a-chatbot-know-about-eating-disorders-users-of-a-help-line-are-about-to-find-out/). Dùng cho tương tác Tessa và việc dừng chatbot.
 2. **S2 — Gilbert và cộng sự, PubMed, 16/12/2020.** *How accurate are digital symptom assessment apps for suggesting conditions and urgency advice? A clinical vignettes comparison to GPs.* [Đọc tóm tắt và công bố lợi ích](https://pubmed.ncbi.nlm.nih.gov/33328258/). Dùng cho thiết kế, số liệu và định nghĩa safe urgency advice.
-3. **S3 — BMJ Open, 2020;10:e040269.** [DOI: 10.1136/bmjopen-2020-040269](https://doi.org/10.1136/bmjopen-2020-040269); [bản toàn văn PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7745523/). S2 và S3 là cùng một nghiên cứu, không tính thành hai case.
+3. **S3 — BMJ Open, 2020;10:e040269.** [DOI: 10.1136/bmjopen-2020-040269](https://doi.org/10.1136/bmjopen-2020-040269); [bản toàn văn PMC](https://pmc.ncbi.nlm.nih.gov/articles/PMC7745523/).
